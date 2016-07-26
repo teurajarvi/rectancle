@@ -1,2 +1,2 @@
 # rectancle
-ANSI-C example of printing a rectancle of stars (language Finnish)
+ANSI-C example of program that asks a dimension from user and prints stars (language Finnish)
